@@ -5,13 +5,13 @@ Start your windows install with no network connection (i.e. unplug the machines 
 
 Continue the install as usual, until you reach this prompt:
 
-<img width="707" height="528" alt="image" src="https://github.com/user-attachments/assets/80ba4606-9c61-4ef0-a420-39b7a157f5ef" />
+https://github.com/user-attachments/assets/80ba4606-9c61-4ef0-a420-39b7a157f5ef
 
 Once here, open command prompt by pressing SHIFT+F10 together on your keyboard.
 
 Once the command prompt window is open, it should look like this:
 
-<img width="708" height="526" alt="image" src="https://github.com/user-attachments/assets/b8c092f4-e380-496f-9cc3-c21be6b4d479" />
+https://github.com/user-attachments/assets/b8c092f4-e380-496f-9cc3-c21be6b4d479
 
 Type into the command prompt window the following:
 
@@ -19,13 +19,13 @@ start ms-cxh:localonly
 
 It should look like this:
 
-<img width="707" height="522" alt="image" src="https://github.com/user-attachments/assets/d9b7185f-34eb-4832-bf41-3e029c41d01e" />
+https://github.com/user-attachments/assets/d9b7185f-34eb-4832-bf41-3e029c41d01e
 
 Hit ENTER
 
 You should see a dialog like:
 
-<img width="707" height="526" alt="image" src="https://github.com/user-attachments/assets/548d3bb3-a6ae-43e5-87f3-7db4161b7778" />
+https://github.com/user-attachments/assets/548d3bb3-a6ae-43e5-87f3-7db4161b7778
 
 Set your user and password. Hit ENTER when finished and continue set up.
 
