@@ -1,7 +1,7 @@
 # Enable-a-local-user-in-Windows11-no-microsoft-account-
 ## A guide for creating a local account on Windows 11, instead of using a microsoft account.
 
-Start your windows install with **>>no network connection<<** (i.e. **unplug the machine's ethernet** or **don't allow a wifi connection in setup**).
+  Start your windows install with **>>NO NETWORK CONNECTION<<** (i.e. **unplug the machine's ethernet** or **don't allow a wifi connection in setup**).
 
 Continue the install as usual, until you reach this prompt:
 
