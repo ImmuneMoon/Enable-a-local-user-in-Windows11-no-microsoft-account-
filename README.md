@@ -23,7 +23,7 @@ It should look like this:
 
 Hit ENTER
 
-You should see a dialog like:
+You should see a dialog to create a local profile like:
 
 <img width="707" height="526" alt="image" src="https://github.com/user-attachments/assets/548d3bb3-a6ae-43e5-87f3-7db4161b7778" />
 
