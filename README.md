@@ -32,3 +32,10 @@ Set your user and password. Hit **ENTER** when finished and continue set up.
 When at desktop, you can now **plug in your ethernet**, or **connect to a wifi network**.
 
 ### Congrats! You are now using a local user profile on Windows 11!!!
+
+## ☕ Support the Project
+
+If you find this guide helpful and want to support further development by Fulllion Creative Works, consider leaving a tip!
+
+* [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=LCDZX75HR4CLC)
+* [Support on Ko-fi](https://ko-fi.com/fulllion)
