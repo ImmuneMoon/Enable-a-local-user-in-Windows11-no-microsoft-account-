@@ -1,4 +1,11 @@
 # Enable-a-local-user-in-Windows11-no-microsoft-account-
+
+![Windows 11](https://img.shields.io/badge/Windows-11-0078D4?logo=windows&logoColor=white)
+![Local account, no Microsoft account](https://img.shields.io/badge/Account-local%20%28no%20Microsoft%20account%29-6f42c1)
+![During Windows setup](https://img.shields.io/badge/During-setup%20%28OOBE%29-5c2d91)
+[![Last updated](https://img.shields.io/github/last-commit/ImmuneMoon/Enable-a-local-user-in-Windows11-no-microsoft-account-?label=updated)](https://github.com/ImmuneMoon/Enable-a-local-user-in-Windows11-no-microsoft-account-/commits/main)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](LICENSE)
+
 ## A guide for creating a local account on Windows 11, instead of using a microsoft account.
 
   Start your windows install with **>>NO NETWORK CONNECTION<<** (i.e. **unplug the machine's ethernet** or **don't allow a wifi connection in setup**).
