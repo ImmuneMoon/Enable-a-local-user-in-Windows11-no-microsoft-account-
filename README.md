@@ -6,7 +6,16 @@
 [![Last updated](https://img.shields.io/github/last-commit/ImmuneMoon/Enable-a-local-user-in-Windows11-no-microsoft-account-?label=updated)](https://github.com/ImmuneMoon/Enable-a-local-user-in-Windows11-no-microsoft-account-/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](LICENSE)
 
+**📄 [Download the PDF](Enable-a-local-user-in-Windows11-no-microsoft-account.pdf)**
+
 ## A guide for creating a local account on Windows 11, instead of using a microsoft account.
+
+> **This may not work on newer versions of Windows 11.** Microsoft says Home and Pro need internet and a Microsoft account during setup, and it has been closing workarounds like this one. As of October 2026, reports conflict on whether this command still works, and it can depend on your Windows version. If it doesn't work for you, try the **Remove requirement for an online Microsoft account** option in Rufus (see my [Windows install guide](https://github.com/ImmuneMoon/Windows-Install-Guide)), though that may still ask for internet. Otherwise, you'll need to finish setup with a Microsoft account.
+
+> **Got an older Windows 11 ISO?** This command may still work on older versions, since the block first showed up in newer builds. You could install from the older ISO with the network unplugged, make your local account, then update. Local accounts normally stay in place through updates, but I haven't found testing that shows exactly which versions work, so treat this as something to try.
+>
+> * **Getting one is the hard part.** Microsoft's site and Rufus's download option only offer the newest version, so an ISO or USB drive you already made is your best bet. [UUP dump](https://uupdump.net/) can build an older one from Microsoft's update files. Don't download a ready-made ISO from a random site, since you can't tell what's been changed.
+> * **Update right away.** Older versions may not get security fixes anymore. For example, Windows 11 24H2 Home and Pro have reached end of updates, so run Windows Update before you use the PC for anything else.
 
   Start your windows install with **>>NO NETWORK CONNECTION<<** (i.e. **unplug the machine's ethernet** or **don't allow a wifi connection in setup**).
 
