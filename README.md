@@ -1,4 +1,4 @@
-# Enable-a-local-user-in-Windows11-no-microsoft-account-
+# Enable a Local User in Windows 11 (No Microsoft Account)
 
 ![Windows 11](https://img.shields.io/badge/Windows-11-0078D4?logo=windows&logoColor=white)
 ![Local account, no Microsoft account](https://img.shields.io/badge/Account-local%20%28no%20Microsoft%20account%29-6f42c1)
